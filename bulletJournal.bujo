@@ -1,0 +1,54 @@
+{
+  "week-name" : "BdayWeek",
+  "number-of-tasks" : 1,
+  "number-of-events" : 3,
+  "start-day" : "MONDAY",
+  "notes" : [ ],
+  "weekdays" : [ {
+    "day-name" : "SUNDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "MONDAY",
+    "events" : [ {
+      "name" : "Enter event name",
+      "description" : "Description of Event",
+      "start-time" : "10:00",
+      "duration" : "10"
+    }, {
+      "name" : "Submit Code",
+      "description" : "63rd street, https://github.com/CS-3500-OOD/pa05-gradle-guardians",
+      "start-time" : "1:00",
+      "duration" : "10"
+    } ],
+    "tasks" : [ {
+      "name" : "Enter task name",
+      "description" : "Enter Description",
+      "completed" : false
+    } ]
+  }, {
+    "day-name" : "TUESDAY",
+    "events" : [ ],
+    "tasks" : [ {
+      "name" : "Go to IV",
+      "description" : "Eat dinner",
+      "completed" : false
+    } ]
+  }, {
+    "day-name" : "WEDNESDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "THURSDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "FRIDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "SATURDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  } ]
+}

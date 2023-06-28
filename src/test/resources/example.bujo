@@ -1,0 +1,54 @@
+{
+  "week-name" : "WEEK 1",
+  "number-of-tasks" : 5,
+  "number-of-events" : 3,
+  "start-day" : "MONDAY",
+  "notes" : [ "OOD Ends on Thursday!" ],
+  "weekdays" : [ {
+    "day-name" : "MONDAY",
+    "events" : [ {
+      "name" : "walk the dog",
+      "description" : "taking Tessa for a walk",
+      "start-time" : "8:50",
+      "duration" : "30"
+    } ],
+    "tasks" : [ {
+      "name" : "OOD homework",
+      "description" : "finish BujoFileReader class",
+      "completed" : true
+    } ]
+  }, {
+    "day-name" : "WEDNESDAY",
+    "events" : [ {
+      "name" : "walk the dog",
+      "description" : "taking Tessa for a walk",
+      "start-time" : "8:50",
+      "duration" : "30"
+    } ],
+    "tasks" : [ {
+      "name" : "OOD homework",
+      "description" : "finish BujoFileWriter",
+      "completed" : false
+    } ]
+  }, {
+    "day-name" : "SUNDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "TUESDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "THURSDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "FRIDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  }, {
+    "day-name" : "SATURDAY",
+    "events" : [ ],
+    "tasks" : [ ]
+  } ]
+}

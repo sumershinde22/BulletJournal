@@ -1,0 +1,21 @@
+{
+  "week-name" : "Week 1",
+  "number-of-tasks" : 5,
+  "number-of-events" : 3,
+  "start-day" : "MONDAY",
+  "notes" : [ ],
+  "weekdays" : [ {
+    "day-name" : "MONDAY",
+    "events" : [ {
+      "name" : "Event 1",
+      "description" : "",
+      "start-time" : "",
+      "duration" : ""
+    } ],
+    "tasks" : [ {
+      "name" : "Task 1",
+      "description" : "",
+      "completed" : false
+    } ]
+  } ]
+}

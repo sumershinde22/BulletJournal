@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="534.0" prefWidth="878.0" xmlns="http://javafx.com/javafx/20.0.1"
+            xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <HBox alignment="CENTER" layoutX="27.0" layoutY="159.0" prefHeight="216.0" prefWidth="796.0">
+            <children>
+                <VBox alignment="CENTER" prefHeight="216.0" prefWidth="559.0">
+                    <children>
+                        <Label alignment="CENTER" prefHeight="162.0" prefWidth="376.0" text="Java Journal">
+                            <font>
+                                <Font size="35.0"/>
+                            </font>
+                        </Label>
+                        <Button fx:id="createNew" alignment="CENTER" mnemonicParsing="false" text="Create New"/>
+                        <Button fx:id="openExisting" alignment="CENTER" mnemonicParsing="false" text="Open Existing"/>
+                    </children>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</AnchorPane>
